@@ -37,7 +37,7 @@ Lastly, if the media that was selected for playback is a video, I send a respons
 
 Here's a screenshot of it!
 
-<img src="https://code.videolan.org/videolan/vlc-ios/uploads/3af6e83a134ee158fd03deb6c10884a6/Screenshot_2023-07-27_at_12.57.20_AM.png" width="300"/>
+<img src="siri.gif" width="250"/>
 
 ### INAddMediaIntent
 
@@ -84,8 +84,6 @@ The "Edit" button is hidden when the user starts searching in the library. This 
 I passed the search data source to the edit controller, and created a new computed variable in the media and edit controllers to dynamically return a data source based on whether the user was currently searching something.
 
 This flexibility between data sources and edit controllers resulted in this MR requiring more debugging and less programming. 
-
-add video
 
 ### Playback Controls Settings: Skip Duration Flexibility
 
