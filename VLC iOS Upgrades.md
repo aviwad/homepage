@@ -85,6 +85,9 @@ I passed the search data source to the edit controller, and created a new comput
 
 This flexibility between data sources and edit controllers resulted in this MR requiring more debugging and less programming. 
 
+<img src="https://code.videolan.org/videolan/vlc-ios/uploads/421ad31c60ea7136236a10ee490b2f0c/Simulator_Screen_Recording_-_iPhone_11_-_2023-08-22_at_17.54.42.gif" width="250"/>
+
+
 ### Playback Controls Settings: Skip Duration Flexibility
 
 - MR link: [Skip Duration Customizability](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1078) (Approved, not merged)
