@@ -22,6 +22,8 @@ Because of a glitch within Spotify, crossfades make the lyrics appear slow on oc
 
 If you're sure the playing song has lyrics but for some reason they aren't showing up, click the Check for lyrics again button to retry a download.
 
+![check](checkAgain.png)
+
 ## 5. If all else fails, please shoot me an email
 
 I'd be more than happy to help you. Please email me at [aviwad@gmail.com](mailto:aviwad@gmail.com)
