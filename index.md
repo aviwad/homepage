@@ -16,7 +16,7 @@
 - Plug'n'Play, automatically syncs with the current song on Spotify
 - Swift Async/Await Concurrency used
 
-### [Spotify Friend Activity for iOS](https://aviwad.github.io/FriendActivitySpotifyHomepage/)
+### [Spotify Friend Activity for iOS](https://spotifyfriend.com/)
 - SwiftUI application to display your friends' listening activity on Spotify
 - Written to use modern Swift Async/Await Concurrency
 - Written to follow MVVM design principle
