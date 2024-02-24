@@ -4,7 +4,7 @@ Through the Google Summer of Code program, I've had the privilege to contribute 
 
 ## Improved System Integration: Siri Support
 
-- MR link: [Draft: Siri/Shortcut/Media Intent support](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1082) (Not merged yet)
+- MR link: [Draft: Siri/Shortcut/Media Intent support](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1082) (Merged!)
 
 iOS offers "Intents" as a way to integrate actions within your app with the rest of the operating system. To integrate with Siri, you must implement handling for specific Sirikit Intents. The Intents I chose to implement were INPlayMediaIntent (to play media through Siri) and INAddMediaIntent (to add the currently playing media to a playlist).
 
@@ -62,7 +62,7 @@ During my final week working at GSoC, I also tried to implement support for sear
 
 ### A History page of Recently Opened Media
 
-- MR link: [History: History page for video & audio](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1066) (Approved, not merged)
+- MR link: [History: History page for video & audio](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1066) (Merged!)
 
 A feature targeted at power-users with big libraries, enabling you to scroll through your history in chronological order. VLC iOS already had a "history" of media the user was watching, this API just wasn't accessible in the UI. 
 
@@ -77,7 +77,7 @@ Lastly, I added a button in the navigation bar for the Video and Audio Views to 
 
 ### Select files for deletion while searching simultaneously
 
-- MR link: [Search While Delete: Pass searchDataSource to EditController in initialization.](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1072) (Approved, not merged)
+- MR link: [Search While Delete: Pass searchDataSource to EditController in initialization.](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1072) (Merged!)
 
 The "Edit" button is hidden when the user starts searching in the library. This MR re-enables editing/selection/deleting and searching simultanously. 
 
@@ -90,7 +90,7 @@ This flexibility between data sources and edit controllers resulted in this MR r
 
 ### Playback Controls Settings: Skip Duration Flexibility
 
-- MR link: [Skip Duration Customizability](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1078) (Approved, not merged)
+- MR link: [Skip Duration Customizability](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1078) (Merged)
 
 VLC iOS allows multiple forms of skips:
 1. Gesture based (swiping to seek)
@@ -106,7 +106,7 @@ This was done to simplify the options for those that wanted something simple, an
 
 ### Upgraded Delete Alert: Display file name
 
-- MR link: [Upgraded Delete Alert: Display file name](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1051) (Approved, not merged)
+- MR link: [Upgraded Delete Alert: Display file name](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1051) (Merged!)
 
 The existing Delete Alert within VLC was too generic and did not mention any details of the selected items. The user could very easily have selected the wrong file for deletion. 
 
@@ -119,15 +119,15 @@ My new MR passes the filename & file count to the Delete Alert. I receive both f
 
 ### Audio Player: Improve contrast between status icons and background
 
-- MR link: [Audio Player: Improve contrast between status icons and background](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1058) 
+- MR link: [Audio Player: Improve contrast between status icons and background](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1058) (Merged!)
 
 ### Album Collection View: Prevent navigation bar from flickering when turning transparent, status bar UI fix for album View
 
-- MR link: [Album Collection View: Prevent navigation bar from flickering when turning transparent, status bar UI fix for album View](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1054) 
+- MR link: [Album Collection View: Prevent navigation bar from flickering when turning transparent, status bar UI fix for album View](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1054) (Merged!)
 
 ### Audio Player: Hide system volume indicator, show VLC Volume indicator on volume change
 
-- MR link: [Audio Player: Hide system volume indicator, show VLC Volume indicator on volume change](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1070)
+- MR link: [Audio Player: Hide system volume indicator, show VLC Volume indicator on volume change](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1070) (Merged!)
 
 ### Cloud View Controller: Prevent "Cloud Services" title glitch when pushing new view controller
 
@@ -135,32 +135,32 @@ My new MR passes the filename & file count to the Delete Alert. I receive both f
 
 ### Disable large titles for network & settings views
 
-- MR link: [Disable large titles for network & settings views](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1094) (Approved, not merged)
+- MR link: [Disable large titles for network & settings views](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1094) (Merged!)
 
 ### Fix playback-scrubbing UI for paused media
 
 - MR link: [Draft: Playback-scrubbing fixes for paused media.
-](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1099) 
+](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1099) (Merged!)
 
 ### Settings disparity: Fix disparity between Settings.app and VLC defaults
 
-- MR link: [Settings disparity: Fix disparity between Settings.app and VLC defaults](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1073)
+- MR link: [Settings disparity: Fix disparity between Settings.app and VLC defaults](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1073) (Merged!)
 
 ### 2 finger pan gesture support to select media
 
-- MR link: [2 finger pan gesture support to select media](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1080)
+- MR link: [2 finger pan gesture support to select media](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1080) (Merged!)
 
 ## Minor bugfixes
 
 ### VLCPlaybackService: Remove redundant observer for "remainingTime"
 
-- MR link: [VLCPlaybackService: Remove redundant observer for "remainingTime"](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1093) (Approved, not merged)
+- MR link: [VLCPlaybackService: Remove redundant observer for "remainingTime"](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1093) (Merged!)
 
 Both "time" and "remainingTime" properties are observed in the VLCPlaybackService, when both change simultaneously. Removing the observer on the remainingTime property increases efficiency.
 
 ### Album Header: Play All correctly opens Audio Player
 
-- MR link: [Album Header: Play All correctly opens Audio Player](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1083)
+- MR link: [Album Header: Play All correctly opens Audio Player](https://code.videolan.org/videolan/vlc-ios/-/merge_requests/1083) (Merged!)
 
 Made sure that setting the fullscreen mode in the VLCPlayerDisplayController wouldn't call the Video Player for audio files.
 
@@ -171,3 +171,7 @@ Total Merge Requests opened by me (excluding duplicates/closed): [15](https://co
 ## Conclusion
 
 I am grateful to Google and the entire VideoLAN team for this opportunity to learn and grow. I have learnt a lot, whether it be communication skills by sending a daily log to my mentors, or it be my iOS Development skills by learning how to bridge Swift and Objective C Code. I also learnt a great deal of UIKit by admiring and adding on to the VLC iOS codebase. Thank you.
+
+## 2024 Feb Update
+
+The release of VLC for iOS Version 3.5.3 is now out, incorporating all my changes and merge requests listed above. It is a great feeling to see my code in the wild. Download VLC for iOS now!
