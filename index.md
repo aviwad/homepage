@@ -1,4 +1,5 @@
 # Avi Wadhwa
+3rd year CS + Phil student at UBC. Currently seeking internships for the summer.
 
 ## Contact
 - **Email:** [aviwad@gmail.com](mailto:aviwad@gmail.com)
