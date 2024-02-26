@@ -10,18 +10,20 @@
 
 ## Projects
 
-### [Lyric Fever for Spotify](https://github.com/aviwad/SpotifyLyricsInMenubar/)
+### [Lyric Fever for Spotify](https://lyricfever.com)
 - SwiftUI menubar application to display live time-synced lyrics with Spotify
 - Saves lyrics using CoreData
 - Communicates with Spotify using UserNotifications and AppleScript
 - Plug'n'Play, automatically syncs with the current song on Spotify
 - Swift Async/Await Concurrency used
+- [GitHub](https://github.com/aviwad/SpotifyLyricsInMenubar/)
 
 ### [Spotify Friend Activity for iOS](https://spotifyfriend.com/)
 - SwiftUI application to display your friends' listening activity on Spotify
 - Written to use modern Swift Async/Await Concurrency
 - Written to follow MVVM design principle
 - 30,000+ downloads
+- [GitHub](https://github.com/aviwad/Friend-Activity-for-Spotify)
 
 ### [LibreHunt](https://librehunt.org/)
 - Famous Linux Distro recommendation tool
