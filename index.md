@@ -10,12 +10,15 @@
 
 ## Projects
 
-### [Lyric Fever for Spotify](https://lyricfever.com)
-- SwiftUI menubar application to display live time-synced lyrics with Spotify
+### [Lyric Fever for Spotify & Apple Music](https://lyricfever.com)
+- SwiftUI menubar application to display live time-synced lyrics with Spotify & Apple Music
 - Saves lyrics using CoreData
-- Communicates with Spotify using UserNotifications and AppleScript
+- Communicates with Spotify using Distributed Notifications and AppleScript
+- Communicates with Apple Music using Distributed Notifications, AppleScript, MusicKit, and private APIs
 - Plug'n'Play, automatically syncs with the current song on Spotify
 - Swift Async/Await Concurrency used
+- Maps Apple Music songs to equivalent Spotify ID using ISRC to display Lyrics fetched from Spotify for either platform
+- [Technical Write Up (Coming Soon)](https://aviwadhwa.com/Creating%20Lyric%20Fever)
 - [GitHub](https://github.com/aviwad/SpotifyLyricsInMenubar/)
 
 ### [Spotify Friend Activity for iOS](https://spotifyfriend.com/)
@@ -33,4 +36,5 @@
 
 ## Blog
 
+- [Creating Lyric fever]()
 - [VLC iOS Upgrades (Google Summer of Code 2023)](https://aviwadhwa.com/VLC%20iOS%20Upgrades)
