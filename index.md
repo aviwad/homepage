@@ -19,8 +19,8 @@
 - Swift Async/Await Concurrency used
 - Maps Apple Music songs to equivalent Spotify ID using ISRC to display Lyrics fetched from Spotify for either platform
 - [Technical Write Up (Coming Soon)](https://aviwadhwa.com/Creating%20Lyric%20Fever)
-- [GitHub](https://github.com/aviwad/SpotifyLyricsInMenubar/)
-- [Download DMG](https://github.com/aviwad/SpotifyLyricsInMenubar/releases/download/v1.8/Lyric.Fever.1.8.dmg)
+- [GitHub](https://github.com/aviwad/LyricFever/)
+- [Download DMG](https://github.com/aviwad/LyricFever/releases/download/v1.8/Lyric.Fever.1.8.dmg)
 
 ### [Spotify Friend Activity for iOS](https://spotifyfriend.com/)
 - SwiftUI application to display your friends' listening activity on Spotify
