@@ -1,5 +1,5 @@
 # Avi Wadhwa
-3rd year CS + Phil student at UBC. Interning at 1Password for the summer.
+4th year CS + Phil student at UBC. Looking for January 2025 internships.
 
 ## Contact
 - **Email:** [aviwad@gmail.com](mailto:aviwad@gmail.com)
