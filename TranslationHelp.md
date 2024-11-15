@@ -20,6 +20,8 @@ You must download translation languages first before LyricFever can translate an
 
 For example, if your system language is English and you want to translate a Korean song, you must have both Korean and English installed.
 
+IMPORTANT: For English, please download English (US). 
+
 <img src="image.png" alt="image" width="500"/>
 
 
