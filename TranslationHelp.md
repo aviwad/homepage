@@ -1,4 +1,4 @@
-# LyricFever Translation Help
+# LyricFever Translation Setup
 
 You must download translation languages first before LyricFever can translate anything. It's very quick.
 
