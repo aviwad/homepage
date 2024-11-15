@@ -7,6 +7,7 @@ You must download translation languages first before LyricFever can translate an
 ### Open Language & Region in System Settings
 
 [Click here to open the Language & Region page](x-apple.systempreferences:com.apple.Localization-Settings.extension)
+
 <!-- ![Settings](Settings.png){width=30%} -->
 <img src="Settings.png" alt="settings" width="500"/>
 
