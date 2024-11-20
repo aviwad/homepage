@@ -4,11 +4,11 @@ You must download translation languages first before LyricFever can translate an
 
 ## Download all translation languages
 
-### Open Language & Region in System Settings
+### Open Translation in System Settings
 
-[Click here to open the Language & Region page](x-apple.systempreferences:com.apple.Localization-Settings.extension)
+[Click here to open the Translation page](x-apple.systempreferences:com.apple.Localization-Settings.extension?translation)
 
-<!-- ![Settings](Settings.png){width=30%} -->
+<!-- ![Settings](Settings.png){width=30%}
 <img src="Settings.png" alt="settings" width="500"/>
 
 
@@ -16,7 +16,7 @@ You must download translation languages first before LyricFever can translate an
 
 <img src="New.png" alt="new" width="500"/>
 
-### Download all the relevant languages
+### Download all the relevant languages -->
 
 For example, if your system language is English and you want to translate a Korean song, you must have both Korean and English installed.
 
