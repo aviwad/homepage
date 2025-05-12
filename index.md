@@ -1,5 +1,5 @@
 # Avi Wadhwa
-4th year CS + Phil student at UBC. Looking for January 2025 internships.
+4th year CS + Phil student at UBC. Interning at Apple for summer of 2025.
 
 ## Contact
 - **Email:** [aviwad@gmail.com](mailto:aviwad@gmail.com)
@@ -15,12 +15,14 @@
 - Saves lyrics using CoreData
 - Communicates with Spotify using Distributed Notifications and AppleScript
 - Communicates with Apple Music using Distributed Notifications, AppleScript, MusicKit, and private APIs
-- Plug'n'Play, automatically syncs with the current song on Spotify
+- Plug'n'Play, automatically syncs with the current song on Spotify / Apple Music
+- Lyrics downloaded from Spotify, LRCLIB, NetEase
+- Menubar, karaoke, and fullscreen lyrics views available
 - Swift Async/Await Concurrency used
 - Maps Apple Music songs to equivalent Spotify ID using ISRC to display Lyrics fetched from Spotify for either platform
 - [Technical Write Up (Coming Soon)](https://aviwadhwa.com/Creating%20Lyric%20Fever)
 - [GitHub](https://github.com/aviwad/LyricFever/)
-- [Download DMG](https://github.com/aviwad/LyricFever/releases/download/v1.9/Lyric.Fever.1.9.dmg)
+- [Download DMG](https://github.com/aviwad/LyricFever/releases/download/v2.2/Lyric.Fever.2.2.dmg)
 
 ### [Spotify Friend Activity for iOS](https://spotifyfriend.com/)
 - SwiftUI application to display your friends' listening activity on Spotify
